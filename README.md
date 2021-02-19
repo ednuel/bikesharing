@@ -9,6 +9,14 @@
 # Results
 [link to dashboard](https://public.tableau.com/profile/ednuel#!/vizhome/Challenge_16136397108280/Story2?publish=yes)
 ![]()
+
+
+Deliverable 1: Change Trip Duration to a Datetime Format
+
+Deliverable 2: Create Visualizations for the Trip Analysis
+
+Deliverable 3: Create a Story and Report for the Final Presentation
+
 # Summary
 ### With the population of Des Moines being significantly lower than the population of New York City 
 
