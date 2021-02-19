@@ -8,10 +8,10 @@
 
 # Results
 [link to dashboard](https://public.tableau.com/profile/ednuel#!/vizhome/Challenge_16136397108280/Story2?publish=yes)
-![](Pics/dataframe.png)
 
 
 Deliverable 1: Change Trip Duration to a Datetime Format
+![](Pics/dataframe.png)
 
 Deliverable 2: Create Visualizations for the Trip Analysis
 
